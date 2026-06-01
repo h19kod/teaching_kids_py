@@ -1,0 +1,26 @@
+# Python
+server/venv/
+server/__pycache__/
+server/app/__pycache__/
+server/app/**/__pycache__/
+server/*.db
+server/*.sqlite
+*.pyc
+*.pyo
+.env
+.env.*
+
+# Node
+client/node_modules/
+client/dist/
+client/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
